@@ -5,3 +5,7 @@ webrev
 .hgtip
 .bridge2
 *.DS_Store
+
+.idea
+cmake-build-debug
+a.out
